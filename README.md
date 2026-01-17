@@ -1,6 +1,7 @@
 **Predicting Campus Event Attendance Using Machine Learning
 Overview
 **
+
 This project uses machine learning to predict attendance for campus events based on event details such as event type, promotion method, timing, weather, free food, and giveaways. The goal is to help student leaders and organizers plan events more efficiently by reducing guesswork around budgeting, space selection, and food planning. 
 
 **Dataset**
